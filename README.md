@@ -8,10 +8,10 @@
 | **Course Duration**    | 12 weeks                                                                |
 | **Lead Organizer & Instructor**  | [Md. Jubayer Hossain](https://hossainlab.github.io/)                                                   |
 | **Credits equivalent**            | 3                                                                       |
-| **Prerequisites**      | Basic knowledge of biology, molecular biology, and introductory statistics. Some familiarity with coding (preferably R or Python) is recommended but not mandatory. |
+| **Prerequisites**      | Basic biology, molecular biology, and introductory statistics knowledge. Some familiarity with coding (preferably R or Python) is recommended but not mandatory. |
 
 ## Course Overview:
-This course aims to equip biologists with the foundational tools and techniques of data science, enabling them to manage, analyze, and interpret large-scale biological datasets. The focus is on computational approaches and practical applications in bioinformatics, genomics, and systems biology. Students will develop statistical modeling, machine learning, and data visualization skills tailored to biological problems.
+The Data Science for Biologists course provides a practical, hands-on approach to analyzing large-scale biological datasets using Python. It addresses the growing demand for data science skills in biology, driven by advances in high-throughput technologies and the availability of omics data. The course takes a step-by-step approach, beginning with Python programming basics and progressing through data preprocessing, visualization, and machine learning, all framed within real-world biological applications.
 
 ## Course Objectives:
 By the end of this course, participants will:
