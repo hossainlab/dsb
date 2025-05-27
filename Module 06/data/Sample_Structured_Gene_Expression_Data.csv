@@ -1,0 +1,6 @@
+Sample_ID,Gene,Expression_Level,Condition,Patient_Age,Tumor_Stage,Mutation_Status,Treatment_Response
+Sample_1,TP53,6.274153810337021,Tumor,41,Stage II,Mutated,Responsive
+Sample_2,BRCA1,5.824933580588996,Normal,52,N/A,Wild-Type,Non-Responsive
+Sample_3,EGFR,8.522220133135866,Tumor,43,Stage III,Mutated,Responsive
+Sample_4,MYC,1.432729602404926,Normal,40,N/A,Wild-Type,Non-Responsive
+Sample_5,KRAS,9.61542568969166,Tumor,50,Stage IV,Mutated,Responsive
